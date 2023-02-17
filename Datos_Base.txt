@@ -1,0 +1,2 @@
+Estrato	Salario
+1	1200000
